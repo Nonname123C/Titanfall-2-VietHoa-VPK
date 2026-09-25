@@ -1,4 +1,4 @@
-# Titanfall-2-VietHoa
+# Titanfall-2-VietHoa-VPK
 Việt Hóa game Titanfall 2 bằng cách chèn VPK
 
 # Hướng dẫn tải
