@@ -1,0 +1,43 @@
+FontFileTable
+{
+	"Default"					"resource/Roboto-Regular.ttf"	[!$JAPANESE && !$TCHINESE]
+	"Default"					"resource/NotoSansJP-Regular.vfont"		[$JAPANESE]
+	"Default"					"resource/NotoSansTC-Regular.vfont"		[$TCHINESE]
+
+	"RobotoRegular"					"resource/Roboto-Regular.ttf"
+
+
+	"DefaultBold"				"resource/Roboto-Bold.ttf"	[!$JAPANESE && !$TCHINESE]
+	"DefaultBold"				"resource/NotoSansJP-Regular.vfont"		[$JAPANESE]
+	"DefaultBold"				"resource/NotoSansTC-Regular.vfont"		[$TCHINESE]
+
+	"Titanfall"					"resource/Roboto-Regular.ttf"		[!$JAPANESE && !$TCHINESE && !$RUSSIAN]
+	"Titanfall"					"resource/NotoSansJP-Regular.vfont"		[$JAPANESE]
+	"Titanfall"					"resource/NotoSansTC-Regular.vfont"		[$TCHINESE]
+	"Titanfall"					"resource/Roboto-Regular.ttf"	[$RUSSIAN]
+
+	"marlett"					"resource/Roboto-Regular.ttf"
+
+	// Everything below is DONOTSHIP / Dev only
+
+	"arial unicode ms"			"resource/Roboto-Regular.ttf"
+
+	"lucida console"			"resource/Roboto-Regular.ttf"						[$PC]
+	"lucida console"			"resource/MetronicPro-Regular.vfont"	[$GAMECONSOLE]
+
+	"tahoma"					"resource/Roboto-Regular.ttf"						[$PC]
+	"tahoma"					"resource/Roboto-Regular.ttf"  	[$GAMECONSOLE]
+
+	"tahoma bold"				"resource/Roboto-Bold.ttf" 					[$PC]
+	"tahoma bold"				"resource/Roboto-Regular.ttf"  	[$GAMECONSOLE]
+
+	"courier new"				"resource/Roboto-Regular.ttf"						[$PC]
+	"courier new"				"resource/Roboto-Regular.ttf"					[$GAMECONSOLE]
+
+	"times new roman"			"resource/Roboto-Regular.ttf"						[$PC]
+	"times new roman"			"resource/Roboto-Regular.ttf" 					[$GAMECONSOLE]
+
+	"arial"						"vgui/fonts/arial.ttf"
+	"arial bold"				"vgui/fonts/arialbd.ttf"
+	"arial narrow"				"vgui/fonts/arialn.ttf"
+}
